@@ -81,7 +81,7 @@
       "chat": false
     }
   },
-  "chat": {
+  "chat": true
     "respond": true
   }
 }
